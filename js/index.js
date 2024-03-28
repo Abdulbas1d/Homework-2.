@@ -1,5 +1,6 @@
 // HOMEWORK
-// 1-HAFTA KUNLARI
+// 1-Misol
+// HAFTA KUNLARI
 // let a = 5;
 // let result;
 // switch (a) {
@@ -30,3 +31,25 @@
 // }
 
 // console.log(result);
+
+
+
+// 2-Misol
+// Alisherning sayohati
+
+// const usdToSoms = 11000.34;
+// const eurToSoms = 12354.03;
+
+// const planeTicketUSD = 500;
+// const hotelFeeUSD = 250;
+// const museumFeeEUR = 120;
+
+// let AlishersMoney = parseFloat(prompt("Enter the amount of money you have:"));
+
+// let TotalExpenseSoms = (planeTicketUSD + hotelFeeUSD) * usdToSoms + museumFeeEUR * eurToSoms;
+
+// if (alishersMoney >= totalExpenseSoms) {
+//     console.log("Oq yo'l Alisher");
+// } else {
+//     console.log("Alisher, ozgina sabr qilish kerak bo'lar ekan");
+// }
